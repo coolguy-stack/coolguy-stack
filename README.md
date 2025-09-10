@@ -8,21 +8,28 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white">
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white">
+  <img alt="C#"   src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white">
 </p>
 
-### What I do
-- Backend with **.NET Core** (C#), cloud on **AWS RDS/MySQL**, **EF Core**, REST APIs  
-- Test automation with **Python Behave**, CI-friendly e2e  
-- Full-stack with **React/TypeScript**, Flask/FastAPI and LLM integrations
+### What I build
+- Backend services with **.NET Core (C#)** — **EF Core**, **REST APIs**, **AWS RDS/MySQL**
+- CI-friendly e2e test automation using **Python Behave**
+- Full-stack apps with **React/TypeScript**, **Flask/FastAPI**, and **LLM** integrations
 
-### Live contribution animation
-> The SVG below updates nightly and animates recent contributions.
+### Live contributions (animated)
+The SVG below is auto-generated nightly via GitHub Actions and “pops in” recent activity.
 
 <p align="center">
-  <img src="./animated-contrib.svg" alt="Animated contributions heatmap" />
+  <img src="./animated-contrib.svg" alt="Animated contributions heatmap (auto-updates nightly)" />
 </p>
+
+<!--
+Notes:
+- animated-contrib.svg is written by .github/workflows/update-animated-contrib.yml
+- Script: scripts/animated_contrib.py
+- Secret required: GH_TOKEN (PAT with repo read + user read)
+-->
