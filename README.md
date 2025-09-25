@@ -20,12 +20,23 @@
 - CI-friendly e2e test automation using **Python Behave**
 - Full-stack apps with **React/TypeScript**, **Flask/FastAPI**, and **LLM** integrations
 
-### Live contributions (animated)
-The SVG below is auto-generated nightly via GitHub Actions and “pops in” recent activity.
-
-<p align="center">
-  <img src="./animated-contrib.svg" alt="Animated contributions heatmap (auto-updates nightly)" />
 </p>
+<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</div>
 
 <!--
 Notes:
