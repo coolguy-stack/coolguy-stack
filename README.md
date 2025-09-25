@@ -60,7 +60,7 @@
 
 
 
-### What I build
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; ### What I build
 - Backend services with **.NET Core (C#)** — **EF Core**, **REST APIs**, **AWS RDS/MySQL**
 - CI-friendly e2e test automation using **Python Behave**
 - Full-stack apps with **React/TypeScript**, **Flask/FastAPI**, and **LLM** integrations
