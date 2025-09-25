@@ -67,9 +67,13 @@
 
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;What I build
-- Backend services with **.NET Core (C#)** — **EF Core**, **REST APIs**, **AWS RDS/MySQL**
-- CI-friendly e2e test automation using **Python Behave**
-- Full-stack apps with **React/TypeScript**, **Flask/FastAPI**, and **LLM** integrations
+- **Backend & systems** — event-driven microservices with **.NET Core (C#)**, **EF Core**, **REST/gRPC**, **Redis**, and **Kafka/event-bus** patterns; performance, reliability, and clean domain boundaries.  
+- **DevOps & testing** — **GitLab CI/CD**, **Docker/Kubernetes**, infra-as-code (**Terraform/CloudFormation**), observability (**Grafana**); integration/e2e testing with **xUnit** and **Python Behave**.  
+- **Data & storage** — pragmatic schema design and migrations across **PostgreSQL**, **MySQL/AWS RDS**, **SQL Server**, **MongoDB**, and **Redis**.  
+- **Applied ML & LLMs** — real-world assistants and automation with **PyTorch/TensorFlow**, **LangChain/LlamaIndex**, and retrieval/RL-style workflows.  
+- **Full-stack product** — **React/TypeScript** and **Next.js** frontends with **Flask/FastAPI** backends; developer-centric UX for dashboards and tooling.  
+- **Game dev & interactive media** — small browser-based games, moment-to-moment feel, simple systems design, Web-deployable builds for portfolio/itch.io showcases.  
+- **Ongoing curiosities** — distributed systems, API design, DX tooling, AI integrity/watermarking, and playful simulations/mechanics.
 
 </p>
 <div align="center">
