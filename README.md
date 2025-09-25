@@ -1,5 +1,5 @@
 <!-- README.md -->
-<h1 align="center">Hi, I’m Md 👋</h1>
+<h1 align="center">Hi, I’m Md <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
 
 <p align="center">
   <a href="https://www.mdnafieu.xyz">
