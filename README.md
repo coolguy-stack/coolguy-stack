@@ -87,11 +87,10 @@
 </picture>
 </div>
 
-<div align="center">
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coolguy-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=coolguy-stack&theme=dark&hide_border=false)<br/>
-</div>
+
 <!--
 Notes:
 - animated-contrib.svg is written by .github/workflows/update-animated-contrib.yml
