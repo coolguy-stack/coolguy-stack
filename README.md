@@ -86,6 +86,12 @@
 </picture>
 </div>
 
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=coolguy-stack&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+    </a>
+</div>    
+
 <!--
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coolguy-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
