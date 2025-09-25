@@ -2,10 +2,17 @@
 <h1 align="center">Hi, I’m Md 👋</h1>
 
 <p align="center">
-  <a href="https://www.mdnafieu.xyz">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/alifhossain86/">LinkedIn</a> •
-  <a href="https://github.com/coolguy-stack">GitHub</a>
+  <a href="https://www.mdnafieu.xyz">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/alifhossain86/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/coolguy-stack">
+    <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
+
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -81,7 +88,7 @@
   />
 </picture>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;GitHub Stats:
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coolguy-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=coolguy-stack&theme=dark&hide_border=false)<br/>
 
