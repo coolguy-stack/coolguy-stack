@@ -84,7 +84,7 @@
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coolguy-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub Streak](https://streak-stats.demolab.com?user=coolguy-stack&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=zayedu&theme=dark&hide_border=false)<br/>
 
 <!--
 Notes:
