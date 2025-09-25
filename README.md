@@ -1,8 +1,5 @@
 <!-- README.md -->
 <h1 align="center">Hi, I’m Md <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
-
-
 <p align="center">
   <a href="https://www.mdnafieu.xyz">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
